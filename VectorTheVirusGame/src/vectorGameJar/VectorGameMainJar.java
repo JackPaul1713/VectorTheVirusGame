@@ -119,7 +119,7 @@ public class VectorGameMainJar
 		JOptionPane.showMessageDialog(frame, "Windows Defender has noticed some problems with your computer.\nIt is recomended that you end the \"Vector\" program.", "System 32", 0);
 		JOptionPane.showMessageDialog(frame, "Oh no! You dicovered my weakness!\nI'll never let you do it, however!", "Vector", 2);
 		
-		//Stop End
+		//End
 		
 		for (int i = 0; i < 45; i++)
 		{
