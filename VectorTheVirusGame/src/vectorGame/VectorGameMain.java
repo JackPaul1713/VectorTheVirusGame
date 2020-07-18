@@ -95,11 +95,9 @@ public class VectorGameMain
         Thread.sleep(1100);
         
 		//UndefeatableSpeech
-		
         JOptionPane.showMessageDialog(frame, "My programer is an absolute undeniable genious. Because of this I, Vector, am almost invincable.\nIn fact my few weaknesses are so insignificant that they are not even worth mentioning.", "Vector", 3);
         
 		//PastComputers
-        
         for (int i = 0; i < 10; i++)
 		{
 			 
@@ -127,7 +125,6 @@ public class VectorGameMain
 		JOptionPane.showMessageDialog(frame, "Oh no! You dicovered my weakness!\nI'll never let you do it, however!", "Vector", 2);
 		
 		//End
-		
 		for (int i = 0; i < 45; i++)
 		{
 			
@@ -165,7 +162,6 @@ public class VectorGameMain
 		}
 		
 		//Failure
-		
 		JOptionPane.showOptionDialog(frame, "Haha fool. You have failed to defeat me, the mighty Vector! Now there is nothing you can do to stop me. You loose, and I win!", "Vector", JOptionPane.YES_NO_CANCEL_OPTION, JOptionPane.QUESTION_MESSAGE, dvIcon, lOptions, lOptions[0]);
 		
 	}
